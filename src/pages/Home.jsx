@@ -1,8 +1,9 @@
 import React from 'react'
-
+import Banner from '../components/Banner'
+import '../App.css';
 const Home = () => {
   return (
-    <div>Home Today</div>
+    <Banner />
   )
 }
 

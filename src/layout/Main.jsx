@@ -7,7 +7,7 @@ const Main = () => {
         <div>
             <Navbar />
             <Outlet/>
-            <footer>footer</footer>
+            <footer className='  h-96'>footer</footer>
         </div>
     )
 }
