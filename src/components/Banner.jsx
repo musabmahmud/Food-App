@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = () => {
     return (
         <>
-            <div className="max-w-screen-2xl container mx-auto xl:px-24 px-4 bg-gradient-to-r from-[#FAFAFA] from-0% to-[#FCFCFC] to-100%">
+            <div className="section-container  bg-gradient-to-r from-[#FAFAFA] from-0% to-[#FCFCFC] to-100%">
                 <div className="flex py-4 flex-col md:flex-row-reverse justify-center items-center sm:gap-0 gap-20">
                     
                     {/* Header Image  */}
