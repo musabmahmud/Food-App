@@ -2,8 +2,8 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <div className=''>
-            <footer className="footer xl:px-24 py-20 text-base-content">
+        <div className='section-container'>
+            <footer className="footer py-20 text-base-content">
                 <aside>
                     <img src="/logo.png" alt="logo" />
                     <p className='my-5 md:w-40'>Savor the artistry where every dish is a culinary master-piece</p>
@@ -32,7 +32,6 @@ const Footer = () => {
             <hr />
             <footer className="footer items-center p-4 text-neutral-content">
                 <aside className="items-center grid-flow-col">
-                    
                     <p>Copyright © 2024 - All right reserved</p>
                 </aside>
                 <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">

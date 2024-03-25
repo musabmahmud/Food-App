@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import Cards from '../components/Cards';
+import Cards from '../../components/Cards';
 import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 
 
